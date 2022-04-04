@@ -1,15 +1,21 @@
-import { useState } from 'react'
-import { Test } from 'Test'
+import styled from '@emotion/styled'
+import Timer from 'components/Clocks'
 
 function App() {
-  const [count, setCount] = useState(0)
   return (
-    <div>
-      <p>You clicked {count} times</p>
-      <button onClick={() => setCount(count + 1)}>Click me</button>
-      <Test />
-    </div>
+    <SBackGround>
+      <Timer />
+    </SBackGround>
   )
 }
+
+const SBackGround = styled.div`
+  background-color: #333333;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+`
 
 export default App
