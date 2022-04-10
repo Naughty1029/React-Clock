@@ -2,7 +2,7 @@
 ![gif](https://raw.githubusercontent.com/Naughty1029/React-Clock/main/images/clock.gif)
 
 ## Overview
-This is a very simple clock made in React.
+This is a very simple clock made in React.<br>
 It displays both digital and analog time.
 
 ## Demo URL
