@@ -1,4 +1,3 @@
-// import dayjs from 'dayjs';
 import styled from '@emotion/styled'
 import { buildHand } from 'businesses/buildHand'
 import { ClockNum } from 'interfaces/ClockNum'

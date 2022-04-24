@@ -1,10 +1,10 @@
 import styled from '@emotion/styled'
-import Timer from 'components/Clocks'
+import Clocks from 'components/Clocks'
 
 function App() {
   return (
     <SBackGround>
-      <Timer />
+      <Clocks />
     </SBackGround>
   )
 }
