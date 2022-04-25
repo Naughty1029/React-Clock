@@ -19,5 +19,8 @@ https://react-clock.cocoroworks.net/
 [twitter](https://twitter.com/masa_and_so_on) <br>
 [Qiita](https://qiita.com/Naughty1029)
 
+## Article
+[「いま何時？」「ReactとTypeScriptで時計を作っといたで」](https://qiita.com/Naughty1029/items/d3aa9e7099a215438117)
+
 ## Licence
 MIT
