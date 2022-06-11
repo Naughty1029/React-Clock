@@ -6,14 +6,15 @@ This is a very simple clock made in React.<br>
 It displays both digital and analog time.
 
 ## Demo URL
+The service is available at the following URL.
 https://react-clock.cocoroworks.net/
 
 ## Development
-- emotion/react 11.8.2
-- emotion/styled 11.8.1
 - react 17.0.2
 - typescript 4.6.3
 - dayjs 1.11.0
+- emotion/react 11.8.2
+- emotion/styled 11.8.1
 
 ## Author
 [twitter](https://twitter.com/masa_and_so_on) <br>
